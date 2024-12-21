@@ -7,7 +7,7 @@ This repository contains projects from the Introduction to AI course, showcasing
 ### A1: AI Solutions for Traffic Systems
 
 - **Objective:** Write a report on using AI technologies to address problems in traffic systems.
-- **Grade:** 95/100
+- **Grade:** full score
 - **Key Features:**
   - **Structure:**
     1. Current Situation: Diagnosis of the current state of Korea's traffic system.
@@ -20,7 +20,7 @@ This repository contains projects from the Introduction to AI course, showcasing
 ### A2: Satellite Image Classification
 
 - **Objective:** Develop a system to classify satellite images with high accuracy.
-- **Grade:** 90/100
+- **Grade:** full score
 - **Key Features:**
   - Design and implement a machine learning model to classify satellite images.
   - Focus on optimizing classification accuracy through model selection, data preprocessing, and hyperparameter tuning.
